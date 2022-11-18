@@ -1,4 +1,4 @@
-package com.example.madpractical9_20012011021
+package com.example.mad_p_9_018
 
 import android.Manifest
 import android.content.IntentFilter
@@ -12,7 +12,7 @@ import android.widget.ListView
 import androidx.appcompat.app.AlertDialog
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import com.example.madpractical9_20012011021.databinding.ActivityMainBinding
+import com.example.mad_p_9_018.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding : ActivityMainBinding
